@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<MojaNajdrazaKlopa>
+
+  <Juhe>
+    <Juha id="krem">Gljive</Juha>
+    <Juha id="krem">Tikve</Juha>
+    <Juha>Pileća s noklicama</Juha>
+  </Juhe>
+
+  <GlavnoJelo>
+  <Mesa>
+  <Meso>Pohana piletina</Meso>
+  <Meso id="roštilj">Vratina</Meso>
+  </Mesa>
+
+  <Ribe>
+  <Riba id="gradele">Orada</Riba>
+  <Riba id="gradele">Brancin</Riba>
+  </Ribe>
+
+  <Nesvrstano>
+  <Klopa id="brutalno">Lazanje</Klopa>
+  <Klopa id="tekuće">Grah s kobasicama</Klopa>
+  </Nesvrstano>
+
+  <Prilozi>
+  <Prilog id="krumpir">Kroketi</Prilog>
+  <Prilog id="krumpir">Pire</Prilog>
+  <Prilog id="krumpir">Pečeni krumpir</Prilog>
+
+  <Prilog>Riža dinstana</Prilog>
+  </Prilozi>
+
+  <Deserti>
+  <Desert id="mljac">Cheesecake</Desert>
+  <Desert id="kolač">Čupava pita</Desert>
+  <Desert id="kolač">Mađarice</Desert>
+  </Deserti>
+  </GlavnoJelo>
+
+</MojaNajdrazaKlopa>
